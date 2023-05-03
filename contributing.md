@@ -1,4 +1,11 @@
 # Welcome
+_Hello and welcome to Group's 3 community of contributors for IT15 class! We're excited to have you join us and become a part of our team. Whether you're a seasoned coder or new to the world of technology, we value your contributions and are eager to work with you._
+
+_As a contributor, you'll have the opportunity to share your skills and knowledge with our group, learn new concepts and techniques, and collaborate with a team of motivated individuals. Together, we can create amazing things and achieve our goals._
+
+_We're committed to creating a supportive and inclusive environment for everyone in our group. We encourage you to ask questions, share your thoughts and ideas, and contribute in any way you feel comfortable. We're here to help you succeed and grow as a part of our team._
+
+_Thank you for choosing to be a part of our community. We look forward to working with you and creating something great together!"_
 
 
 
