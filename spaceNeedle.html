@@ -3,17 +3,18 @@
 <head>
 <title>The biggest attraction in Seattle</title>
 <link rel="stylesheet" type="text/css" href="styles/branchlevel.css">
-<script src="scripts/myscripts.js"></script>
 <style>
     #alttext {
         font-size: 50px;
     }
 
     #description {
-        float: right;
+        position: absolute;
+        top: 50%;
+        right: 20px;
+        transform: translate(0, -50%);
         width: 300px;
         height: 200px;
-        margin-left: 60px; /* Adjust the value as per your preference */
         overflow: auto;
     }
 </style>
@@ -40,5 +41,6 @@
 <ul>
 <li><a href="index.html">Table of Contents</a></li>
 </ul>
+<script src="scripts/myscripts.js"></script>
 </body>
 </html>
