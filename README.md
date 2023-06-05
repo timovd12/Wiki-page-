@@ -17,6 +17,7 @@ Here are a few notable projects we have worked on:
 - [coffeespots.html](https://github.com/timovd12/Final-Project/blob/main/coffeespots.html): By yuria-loo
 
 - [spaceNeedle.html](https://github.com/timovd12/Final-Project/blob/main/spaceNeedle.html): By timovd12
+- [PikesPlace.html ](https://github.com/timovd12/Final-Project/blob/main/PikesPlace.html): By timovd12
 
 - [LakeUnion.html](https://github.com/timovd12/Final-Project/blob/main/LakeUnion.html): By Hanadi
 
