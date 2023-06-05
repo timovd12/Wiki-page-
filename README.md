@@ -15,11 +15,10 @@ We are Group 3, a team of student developers dedicated to building innovative so
 Here are a few notable projects we have worked on:
 
 - [coffeespots.html](https://github.com/timovd12/Final-Project/blob/main/coffeespots.html): By yuria-loo
-yuria-loo
-- [
-spaceNeedle.html ](https://github.com/timovd12/Final-Project/blob/main/spaceNeedle.html): By timovd12
 
-- [LakeUnion.html ](https://github.com/timovd12/Final-Project/blob/main/LakeUnion.html): By Hanadi
+- [spaceNeedle.html](https://github.com/timovd12/Final-Project/blob/main/spaceNeedle.html): By timovd12
+
+- [LakeUnion.html](https://github.com/timovd12/Final-Project/blob/main/LakeUnion.html): By Hanadi
 
 
 Feel free to explore our repositories to find more projects and code samples.
