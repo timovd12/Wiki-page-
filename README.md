@@ -3,7 +3,7 @@
 Welcome to the GitHub profile of Group 3! We are a group of passionate developers students working together on our final project. Here, you'll find an overview of our team, projects, and skills.
 
 ## Table of Contents
-- [Group 3](#IT115)
+- [About Us](#about-us)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
