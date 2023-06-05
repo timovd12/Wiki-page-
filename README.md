@@ -20,6 +20,8 @@ yuria-loo
 spaceNeedle.html ](https://github.com/timovd12/Final-Project/blob/main/spaceNeedle.html): By timovd12
 
 - [LakeUnion.html ](https://github.com/timovd12/Final-Project/blob/main/LakeUnion.html): By Hanadi
+
+
 Feel free to explore our repositories to find more projects and code samples.
 
 ## Skills
