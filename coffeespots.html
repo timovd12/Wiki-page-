@@ -29,7 +29,7 @@
         header {
             text-align: center;
             /* height: 30px; */
-            background: #b89f8f;
+            /* background: #b89f8f; */
         }
 
         .row {
@@ -42,9 +42,11 @@
         .third {
             width: 280px;
             float: left;
+            margin-left: 10px;
             margin-right: 10px;
             text-align: center;
         }  
+      
         
         .third:last-of-type {
             margin-right: 0;
@@ -54,19 +56,22 @@
             max-width: 100%;
             display: block;
         }
+       
 
         main {
-            width: 580px;
+            width: 940px;
+            height: 250px;
             margin-top: 25px;
             float: left;
+            /* text-align: center; */
         }
 
-        aside {
+        /* aside {
             width: 340px;
             margin-top: 25px;
             float: right;
-            background: #b89f8f;
-        }
+            background: #c9b7ac;
+        } */
 
         footer {
             height: 60px;
@@ -81,13 +86,27 @@
         }
 
         h1, h2, h3 {
-            margin-bottom: 8px;
+            margin-bottom: 15px;
             font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        main h1, main p {
+           margin: 20px auto;
+           text-align: center;
+        }
+
+        main h1 {
+            font-size: 2.5em;
+        }
+
+        main p {
+            font-size: 1.5em;
         }
 
         p {
             margin-bottom: 20px;
             line-height: 1.4;
+            font-size: 1.2em;
         }
 
 
@@ -104,33 +123,38 @@
             <main>
                 <h1>Seattle Essential Coffee Spots!</h1>
 
-                <h2>This is my first headline 2!<h2>
                 <p>There are many coffee places in Seattle. Each coffee place has its uniqueness! I will introduce some of my favorite coffee spots that I highly recommend. </p>
 
             
             </main>
 
             <aside>
-                <h3>Hello from Yuria</h3>
-                <p>Hello everyone, I am the ower of this page. I am so happy to introduce amazing coffee shops in Seattle.</p>
+                <!-- <h3>Hello from Yuria</h3>
+                <p>Hello everyone, I am the ower of this page. I am so happy to introduce amazing coffee shops in Seattle.</p> -->
             </aside>
 
             <div class="row">
                 <div class="third">
-                    <img src="images/starbucks.JPG" alt="Starbucks">
                     <h3>No.1 Starbucks Reserve Roastery</h3>
-                    <p>It is located in downtown Seattle. Starbucks Reserve Roastery is absolutelly different from other regular starbuck stores. They serve not only coffee but also cocktails and alcoholic beverage at the bar. </p>
+                    <img src="images/starbucks.JPG" alt="Starbucks">
+                    
+                    <p>It is located in downtown Seattle. </p>
+                    <p>Starbucks Reserve Roastery is absolutelly different from other regular starbuck stores. They serve not only coffee but also cocktails and alcoholic beverage at the bar. </p>
                 </div> <!-- First third -->
 
                 <div class="third">
+                    <h3>No.2 Solstice Cafe</h3>
                     <img src="images/solsticecafe.JPG" alt="solsticecafe">
-                    <h3>No.2 Solistice Cafe</h3>
+                    
                     <p>Located in University District. </p>
+                    <p>Offering variety of coffee and drinks including a huge selection of tea. </p>
                 </div> <!-- Second third -->
 
                 <div class="third">
+                    <h3>No.3 Zoka Coffee Roaster & Tea Company</h3>
                     <img src="images/zokacoffee.JPG" alt="zokacoffee">
-                    <h3>No.3</h3>
+                    <p>Locations: Greenlake, University District, South Lake Union, and Kirkland</p>
+                    <p>Zoka Coffee has won the National Barista Championship in 2002 and 2002. They roast coffee in small batches, each weekday at their own roastery in Bellingham, so you can enjoy freshly roasted coffee anytime.</p>
                 </div> <!-- Third third -->
 
             </div>
