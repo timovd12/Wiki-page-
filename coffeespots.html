@@ -19,7 +19,7 @@
         }
 
         #wrapper {
-            width: 940px;
+            width: 960px;
             margin: 20px auto;
             padding: 0 15px;
             background: rgba(224, 199, 151, 0.753);
@@ -32,13 +32,40 @@
             background: #b89f8f;
         }
 
+        .row {
+            clear: both;
+            margin-bottom: 20px;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .third {
+            width: 280px;
+            float: left;
+            margin-right: 10px;
+            text-align: center;
+        }  
+        
+        .third:last-of-type {
+            margin-right: 0;
+        }
+        
+        .third img {
+            max-width: 100%;
+            display: block;
+        }
+
         main {
             width: 580px;
-
+            margin-top: 25px;
+            float: left;
         }
 
         aside {
-            width: 360px;
+            width: 340px;
+            margin-top: 25px;
+            float: right;
+            background: #b89f8f;
         }
 
         footer {
@@ -53,6 +80,16 @@
             margin-right: 30px;
         }
 
+        h1, h2, h3 {
+            margin-bottom: 8px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        p {
+            margin-bottom: 20px;
+            line-height: 1.4;
+        }
+
 
 
     </style>
@@ -62,6 +99,7 @@
             <header>
                 <a href="index.html"><img src="images/icon.png" alt="logo"></a>
             </header>
+        
 
             <main>
                 <h1>Seattle Essential Coffee Spots!</h1>
@@ -69,17 +107,33 @@
                 <h2>This is my first headline 2!<h2>
                 <p>There are many coffee places in Seattle. Each coffee place has its uniqueness! I will introduce some of my favorite coffee spots that I highly recommend. </p>
 
-                <h3>No.1 Starbucks Reserve Roastery</h3>
-                <p>It is located in downtown Seattle. Starbucks Reserve Roastery is absolutelly different from other regular starbuck stores. They serve not only coffee but also cocktails and alcoholic beverage at the bar. </p>
-
-                <h3>No.2 Solistice Cafe</h3>
-                <p>Located in University District. </p>
+            
             </main>
 
             <aside>
                 <h3>Hello from Yuria</h3>
                 <p>Hello everyone, I am the ower of this page. I am so happy to introduce amazing coffee shops in Seattle.</p>
             </aside>
+
+            <div class="row">
+                <div class="third">
+                    <img src="images/starbucks.JPG" alt="Starbucks">
+                    <h3>No.1 Starbucks Reserve Roastery</h3>
+                    <p>It is located in downtown Seattle. Starbucks Reserve Roastery is absolutelly different from other regular starbuck stores. They serve not only coffee but also cocktails and alcoholic beverage at the bar. </p>
+                </div> <!-- First third -->
+
+                <div class="third">
+                    <img src="images/solsticecafe.JPG" alt="solsticecafe">
+                    <h3>No.2 Solistice Cafe</h3>
+                    <p>Located in University District. </p>
+                </div> <!-- Second third -->
+
+                <div class="third">
+                    <img src="images/zokacoffee.JPG" alt="zokacoffee">
+                    <h3>No.3</h3>
+                </div> <!-- Third third -->
+
+            </div>
 
         <footer>
             <ul>
